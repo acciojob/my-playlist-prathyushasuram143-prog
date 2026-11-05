@@ -29,11 +29,6 @@ a {
     target: _blank;
 }
 
-.player_one,
-.player_two {
-    padding: 10px;
-    border-radius: 10px;
-}
 
 video{
 	height:400px;
@@ -46,8 +41,10 @@ h3{
 	text-align:center;
 }
 .box2{
-	height:550px;
-	width:500px;
+	height:580px;
+	width:530px;
 	background-color:rgb(255, 255, 255);;
-	padding:20px;
+	padding:10px;
+	border:1px solid black;
+	border-radius:5px;
 }
